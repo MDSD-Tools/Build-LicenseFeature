@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature id="tools.mdsd.license.epl2">
+      <category name="tools.mdsd.license"/>
+   </feature>
+   <feature id="tools.mdsd.license.epl2.source">
+      <category name="tools.mdsd.license.source"/>
+   </feature>
+   <category-def name="tools.mdsd.license" label="MDSD.tools License"/>
+   <category-def name="tools.mdsd.license.source" label="MDSD.tools License Developer Resources"/>
+</site>
