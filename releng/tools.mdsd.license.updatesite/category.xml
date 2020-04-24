@@ -3,6 +3,12 @@
    <feature id="tools.mdsd.license.epl2">
       <category name="tools.mdsd.license"/>
    </feature>
+   <feature id="tools.mdsd.license.apache2">
+      <category name="tools.mdsd.license"/>
+   </feature>
+   <feature id="tools.mdsd.license.apache2.source">
+      <category name="tools.mdsd.license.source"/>
+   </feature>
    <feature id="tools.mdsd.license.epl2.source">
       <category name="tools.mdsd.license.source"/>
    </feature>
