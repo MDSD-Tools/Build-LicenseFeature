@@ -6,7 +6,7 @@
 	<parent>
 		<groupId>tools.mdsd</groupId>
     <artifactId>eclipse-parent-updatesite-notp</artifactId>
-    <version>0.8.7</version>
+    <version>0.8.9</version>
 	</parent>
 	<groupId>tools.mdsd.license</groupId>
 	<artifactId>parent</artifactId>	
