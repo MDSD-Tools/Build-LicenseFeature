@@ -10,7 +10,7 @@ jobs:
       runner-label: ubuntu-latest
       java-version: 17
       deploy-updatesite: 'releng/tools.mdsd.license.updatesite/target/repository'
-      release: 1.0.0
+      release-version: 1.0.0
     secrets:
       SERVER_SSH_KEY: ${{ secrets.DEPLOYMENT_SERVER_SSH_KEY }}
       REMOTE_HOST: ${{ secrets.DEPLOYMENT_REMOTE_HOST }}
